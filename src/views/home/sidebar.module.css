@@ -1,0 +1,24 @@
+.navLinkCustom {
+    background-color: #f0f0f0; /* Background color for the link */
+    color: #007bff; /* Text color for the link */
+    border-radius: 4px; /* Optional: adds rounded corners */
+    padding: 0.5rem; /* Optional: adds padding */
+}
+
+.navLinkCustomHover {
+    background-color: #e0e0e0; /* Background color on hover */
+    color: #0056b3; /* Text color on hover */
+}
+
+.sidebarCustom {
+    background-color: rgb(233, 238, 234); /* Background color for the sidebar */
+    padding: 1rem; /* Optional: adds padding */
+}
+
+.navExpanded {
+    background-color: #f8f9fa; /* Background color for expanded lists */
+}
+
+.navExpandedLink {
+    color: #333333; /* Text color in expanded sections */
+}
